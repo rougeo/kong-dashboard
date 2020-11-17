@@ -21,7 +21,7 @@
     "minimist": "^1.2.0",
     "request": "^2.82.0",
     "semver": "^5.4.1",
-    "yargs": "^8.0.2"
+    "yargs": "^16.0.0"
   },
   "bin": {
     "kong-dashboard": "./bin/kong-dashboard.js"
